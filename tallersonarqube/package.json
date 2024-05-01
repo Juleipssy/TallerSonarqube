@@ -1,0 +1,11 @@
+{
+    "name": "clase_devops_pj",
+    "version": "1.0.0",
+    "description": "Un proyecto de ejemplo para SonarQube",
+    "scripts": {
+        "sonar": "sonar-scanner"
+    },
+    "dependencies": {
+        "sonarqube-scanner": "^3.5.0"
+    }
+}
